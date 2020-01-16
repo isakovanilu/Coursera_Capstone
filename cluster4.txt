@@ -1,0 +1,23 @@
+"CN Tower,Bathurst Quay,Island airport,Harbourfront West,King and Spadina,Railway Lands,South Niagara"
+St. James Town
+"Harbord,University of Toronto"
+"Chinatown,Grange Park,Kensington Market"
+Davisville North
+"Harbourfront East,Toronto Islands,Union Station"
+"Adelaide,King,Richmond"
+"Commerce Court,Victoria Hotel"
+"Cabbagetown,St. James Town"
+Central Bay Street
+Stn A PO Boxes 25 The Esplanade
+"First Canadian Place,Underground city"
+"Ryerson,Garden District"
+Berczy Park
+"Design Exchange,Toronto Dominion Centre"
+Harbourfront
+Queen's Park
+"Deer Park,Forest Hill SE,Rathnelly,South Hill,Summerhill West"
+North Toronto West
+Church and Wellesley
+Christie
+"The Annex,North Midtown,Yorkville"
+Davisville

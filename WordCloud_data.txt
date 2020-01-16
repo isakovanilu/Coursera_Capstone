@@ -2,102 +2,102 @@ Glencairn
 Lawrence Park
 "Dorset Park,Scarborough Town Centre,Wexford Heights"
 "Cliffcrest,Cliffside,Scarborough Village West"
-Business Reply Mail Processing Centre 969 Eastern
-Downsview Northwest
-L'Amoreaux West
-"Clarks Corners,Sullivan,Tam O'Shanter"
-"Dovercourt Village,Dufferin"
+"Birch Cliff,Cliffside West"
+Davisville North
+"Design Exchange,Toronto Dominion Centre"
 "Maryvale,Wexford"
 "Woodbine Gardens,Parkview Hill"
-"Design Exchange,Toronto Dominion Centre"
-Davisville North
-"Birch Cliff,Cliffside West"
+"Clarks Corners,Sullivan,Tam O'Shanter"
+L'Amoreaux West
+Downsview Northwest
+Business Reply Mail Processing Centre 969 Eastern
+"Dovercourt Village,Dufferin"
 North Toronto West
 Roselawn
 "Agincourt North,L'Amoreaux East,Milliken,Steeles East"
 "Little Portugal,Trinity"
-Davisville
-"Runnymede,Swansea"
-Don Mills North
-Willowdale West
-"The Junction North,Runnymede"
-Caledonia-Fairbanks
-"Alderwood,Long Branch"
 "Fairview,Henry Farm,Oriole"
-Central Bay Street
 Queen's Park
-"Kingsview Village,Martin Grove Gardens,Richview Gardens,St. Phillips"
-"Guildwood,Morningside,West Hill"
-Weston
-Woodbine Heights
-"Humber Bay,King's Mill Park,Kingsway Park South East,Mimico NE,Old Mill South,The Queensway East,Royal York South East,Sunnylea"
-Stn A PO Boxes 25 The Esplanade
+Central Bay Street
+"Alderwood,Long Branch"
+Caledonia-Fairbanks
+Willowdale West
+Don Mills North
+"Runnymede,Swansea"
+Davisville
+"The Junction North,Runnymede"
 "Moore Park,Summerhill East"
-"Commerce Court,Victoria Hotel"
-Hillcrest Village
-Humewood-Cedarvale
-Parkwoods
 Church and Wellesley
-"Deer Park,Forest Hill SE,Rathnelly,South Hill,Summerhill West"
-"Ryerson,Garden District"
-Berczy Park
-"Bedford Park,Lawrence Manor East"
-East Toronto
-Westmount
-"Cloverdale,Islington,Martin Grove,Princess Gardens,West Deane Park"
-Upper Rouge
-Willowdale South
-York Mills West
+Parkwoods
+Humewood-Cedarvale
+Hillcrest Village
+"Commerce Court,Victoria Hotel"
+"Humber Bay,King's Mill Park,Kingsway Park South East,Mimico NE,Old Mill South,The Queensway East,Royal York South East,Sunnylea"
+Woodbine Heights
+Weston
+"Guildwood,Morningside,West Hill"
+"Kingsview Village,Martin Grove Gardens,Richview Gardens,St. Phillips"
+Stn A PO Boxes 25 The Esplanade
 "Humber Bay Shores,Mimico South,New Toronto"
-Downsview Central
 "Downsview,North Park,Upwood Park"
-"Brockton,Exhibition Place,Parkdale Village"
+York Mills West
 Thorncliffe Park
 "Flemingdon Park,Don Mills South"
-"Parkdale,Roncesvalles"
-Christie
-"The Kingsway,Montgomery Road,Old Mill North"
-"Chinatown,Grange Park,Kensington Market"
-"Harbord,University of Toronto"
-"Emery,Humberlea"
-"Rouge,Malvern"
-Northwest
-"East Birchmount Park,Ionview,Kennedy Park"
+"Brockton,Exhibition Place,Parkdale Village"
+Willowdale South
+Downsview Central
+"Cloverdale,Islington,Martin Grove,Princess Gardens,West Deane Park"
+Westmount
+East Toronto
+Upper Rouge
+"Bedford Park,Lawrence Manor East"
+Berczy Park
+"Ryerson,Garden District"
+"Deer Park,Forest Hill SE,Rathnelly,South Hill,Summerhill West"
 Agincourt
-"CFB Toronto,Downsview East"
-Woburn
-"Bloordale Gardens,Eringate,Markland Wood,Old Burnhamthorpe"
-Bayview Village
-"Bathurst Manor,Downsview North,Wilson Heights"
-Queen's Park
-"High Park,The Junction South"
-The Beaches
-"The Beaches West,India Bazaar"
-"Cabbagetown,St. James Town"
-"The Annex,North Midtown,Yorkville"
-"Adelaide,King,Richmond"
-"Albion Gardens,Beaumond Heights,Humbergate,Jamestown,Mount Olive,Silverstone,South Steeles,Thistletown"
+"East Birchmount Park,Ionview,Kennedy Park"
+Northwest
+"Rouge,Malvern"
+"Emery,Humberlea"
+"Harbord,University of Toronto"
+"Chinatown,Grange Park,Kensington Market"
+"The Kingsway,Montgomery Road,Old Mill North"
+Christie
+"Parkdale,Roncesvalles"
 "CN Tower,Bathurst Quay,Island airport,Harbourfront West,King and Spadina,Railway Lands,South Niagara"
+"Albion Gardens,Beaumond Heights,Humbergate,Jamestown,Mount Olive,Silverstone,South Steeles,Thistletown"
+"Adelaide,King,Richmond"
+"The Annex,North Midtown,Yorkville"
 "First Canadian Place,Underground city"
-"Silver Hills,York Mills"
-"Highland Creek,Rouge Hill,Port Union"
-Humber Summit
-St. James Town
-Harbourfront
-Studio District
-"Newtonbrook,Willowdale"
-"Forest Hill North,Forest Hill West"
-"Lawrence Heights,Lawrence Manor"
-Downsview West
-"Del Ray,Keelesdale,Mount Dennis,Silverthorn"
-Rosedale
-Leaside
+"The Beaches West,India Bazaar"
+The Beaches
+"Cabbagetown,St. James Town"
+Queen's Park
+"Bathurst Manor,Downsview North,Wilson Heights"
+Bayview Village
+"Bloordale Gardens,Eringate,Markland Wood,Old Burnhamthorpe"
+Woburn
+"CFB Toronto,Downsview East"
+"High Park,The Junction South"
 Canada Post Gateway Processing Centre
+Leaside
+Rosedale
+"Del Ray,Keelesdale,Mount Dennis,Silverthorn"
+Downsview West
+"Lawrence Heights,Lawrence Manor"
+"Forest Hill North,Forest Hill West"
+Studio District
+Harbourfront
+St. James Town
+Humber Summit
+"Highland Creek,Rouge Hill,Port Union"
+"Silver Hills,York Mills"
+"Newtonbrook,Willowdale"
+Cedarbrae
 "Northwood Park,York University"
 "Harbourfront East,Toronto Islands,Union Station"
 "Kingsway Park South West,Mimico NW,The Queensway West,Royal York South West,South of Bloor"
 "Clairlea,Golden Mile,Oakridge"
 Victoria Village
 Scarborough Village
-Cedarbrae
 "The Danforth West,Riverdale"
